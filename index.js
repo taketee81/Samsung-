@@ -4,8 +4,8 @@ const fs = require('fs');
 const moment = require('moment-timezone');
 
 // Memory limit in MB
-const MEMORY_LIMIT = 2500;
-const RESTART_DELAY = 350;
+const MEMORY_LIMIT = 250;
+const RESTART_DELAY = 3000;
 
 const TIMEZONE = global.timezones || "Africa/Nairobi";
 
