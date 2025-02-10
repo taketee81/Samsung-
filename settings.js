@@ -23,16 +23,16 @@ global.botname = process.env.BOT_NAME || '᙭ᑭᒪOᗩᗪᗴᖇ ᗷOT'
 //Your desired bot name
 
 //=================================================//
-global.ownernumber = process.env.OWNER_NUMBER || '254754783972' 
+global.ownernumber = process.env.OWNER_NUMBER || '23274449130' 
 //Type your main number here
 
 //=================================================//
-global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['254796180105', '254712345678'];
+global.sudo = process.env.SUDO ? process.env.SUDO.split(',') : ['23274448130'];
 // Type additional allowed users here
 //NB: They'll be able to use every functions of the bot without restrictions.
 
 //=================================================//
-global.ownername = process.env.OWNER_NAME || 'Tylor' 
+global.ownername = process.env.OWNER_NAME || 'Mr Take Tee' 
 //Type your name here
 
 //=================================================//
@@ -54,11 +54,11 @@ global.prefixz = process.env.PREFIX || '.'
 //Set your desired prefix
 
 //=================================================//
-global.mode = process.env.MODE || 'public';
+global.mode = process.env.MODE || 'private';
 // Set to 'private' to enable private mode, otherwise default is 'public'
 
 //=================================================//
-global.statusemoji = process.env.STATUS_EMOJI || '🧡'
+global.statusemoji = process.env.STATUS_EMOJI || '🥰'
 //Enter the emoji that you wish to be reacted to statuses 
 
 //=================================================//
@@ -66,7 +66,7 @@ global.autoviewstatus = process.env.AUTO_STATUS_VIEW || 'true'
 // set true to enable and false to disable auto status view
 
 //=================================================//
-global.autoreactstatus = process.env.AUTO_STATUS_REACT || 'false'
+global.autoreactstatus = process.env.AUTO_STATUS_REACT || 'true'
 // set true to enable and false to disable auto status react
 
 //=================================================//
@@ -83,7 +83,7 @@ global.anticall = process.env.ANTI_CALL || 'false'
 // set true to enable and false to disable auto blocking of callers
 
 //=================================================//
-global.welcome = process.env.WELCOME_MSG || 'false'
+global.welcome = process.env.WELCOME_MSG || 'true'
 // set true to enable and false to disable welcoming and left messages to groups upon joining or leaving groups
 
 //=================================================//
@@ -95,7 +95,7 @@ global.autoread = process.env.AUTO_READ || 'false';
 // Set to 'true' to enable automatic reading of messages
 
 //=================================================//
-global.menustyle = process.env.MENU_STYLE || '2' 
+global.menustyle = process.env.MENU_STYLE || '3' 
 // options 1, 2, 3, 4 or 5
 // 1 = Document menu(Android only)
 // 2 = Text only menu(Android & iOS)
