@@ -24,7 +24,7 @@
         "chalk": "^4.1.2",
         "cheerio": "^1.0.0-rc.12",    
         "check-disk-space": "^3.3.1",                 
-        "cookie": "^0.5.0",
+        "cookie": "^1.0.2",
         "colors": "latest",
         "crypto": "^1.0.1",
         "express": "^4.19.2",
