@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Take Tee",
+  "author": "Tylor",
   "license": "MIT",
   "dependencies": {
         "@whiskeysockets/baileys": "^6.7.12",
